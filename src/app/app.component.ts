@@ -16,6 +16,11 @@ export class AppComponent {
       icon: 'home'
     },
     {
+      title: 'Scan',
+      url: '/scan',
+      icon: 'qr-scanner'
+    },
+    {
       title: 'List',
       url: '/list',
       icon: 'list'
